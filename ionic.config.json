@@ -1,0 +1,7 @@
+{
+  "name": "authenapi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
